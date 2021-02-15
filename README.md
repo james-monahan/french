@@ -1,3 +1,4 @@
 # french  
   
-  useful vocab and code to aid in studying
+  -Useful vocab sourced from rfi Savoirs excercises.  
+  -Code to aid in repition/practice
